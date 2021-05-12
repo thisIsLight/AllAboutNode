@@ -4,4 +4,4 @@
 // In terminal, run : node welcome.js
 //Runnig this will run js outside the browser, hence Node in action
 
-console.log("Hello world")
+console.log("Hello world");
